@@ -10,35 +10,35 @@
 const bikes = [
   {
     nome: 'Specialized Tarmac SL7',
-    peso: '6,8 '
+    peso:  6,8 , 
   }
   {
     nome: 'Canyon Ultimate CFR',
-    peso: '6,2 '
+    peso:  6,2 ,
   }
   {
     nome: 'Pinarello Dogma F',
-    peso: '7,6 '
+    peso:  7,6 ,
   }
   {
     nome: 'Trek Emonda SLR',
-    peso: '8,6 '
+    peso:  8,6 , 
   }
   {
     nome: 'BMC Teammachine SLR01',
-    peso: '5,9 '
+    peso:  5,9 ,
   }
   {
     nome: 'Giant TCR Advanced SL Disc',
-    peso: '6,0 '
+    peso:  6,0 ,
   }
   {
     nome: 'Scott Addict RC Ultimate',
-    peso: '9,2 '
+    peso:  9,2 ,
   }
   {
     nome: 'SColnago V4Rs',
-    peso: '9,0 '
+    peso:  9,0 ,
   }
 ]
 
